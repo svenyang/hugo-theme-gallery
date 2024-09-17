@@ -1,0 +1,11 @@
+aseURL = 'https://svenyang.github.io/photo'
+languageCode = 'zh-CN'
+title = 'oo'
+
+[menu]
+  [main]
+    name = "test"
+    weight = 1
+
+[params]
+    showDate = 'Yes'
